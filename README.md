@@ -1,0 +1,2 @@
+# OdinProjects
+JavaScript Mini Projects
